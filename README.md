@@ -1,1 +1,1 @@
-# ManagementSekolah
+# Management Sekolah
